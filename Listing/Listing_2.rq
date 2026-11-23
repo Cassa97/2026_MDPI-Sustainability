@@ -1,0 +1,23 @@
+#Retrieval of insulation product attributes using SPARQL.
+
+PREFIX qudt: <http://qudt.org/schema/qudt/>
+PREFIX bpo: <https://w3id.org/bpo#>
+PREFIX dicm: <https://w3id.org/digitalconstruction/0.5/Materials#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?product ?thermalcond ?tc_numbervalue ?tc_udm
+       ?thickness ?t_numbervalue ?t_udm
+WHERE {
+    ?product a bpo:Product ;
+             bpo:hasAttribute ?thermalcond, ?thickness .
+    ?thermalcond a dicm:ThermalConductivity ;
+                 rdf:value ?tc_value .
+    ?tc_value a qudt:QuantityValue ;
+              qudt:numericValue ?tc_numbervalue ;
+              qudt:unit ?tc_udm .
+    ?thickness a dicm:Thickness ;
+               rdf:value ?t_value .
+    ?t_value a qudt:QuantityValue ;
+             qudt:numericValue ?t_numbervalue ;
+             qudt:unit ?t_udm .
+}
+ORDER BY ?product
