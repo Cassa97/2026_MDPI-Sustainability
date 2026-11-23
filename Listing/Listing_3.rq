@@ -1,0 +1,53 @@
+#SPARQL query for thermal feasibility assessment of uniform retrofit configurations.
+PREFIX bot: <https://w3id.org/bot#>
+PREFIX beo: <https://pi.pauwel.be/voc/buildingelement#>
+PREFIX bsddm: <https://w3id.org/ifc2lbd/bsdd-meta#>
+PREFIX ifcp: <https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/prop/>
+PREFIX opm: <https://w3id.org/opm#>
+PREFIX schema: <http://schema.org/>
+PREFIX bpo: <https://w3id.org/bpo#>
+PREFIX dicm: <https://w3id.org/digitalconstruction/0.5/Materials#>
+PREFIX qudt: <http://qudt.org/schema/qudt/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?variant ?productName ?thicknessMM ?lambda ?uPostWorst
+WHERE {
+    VALUES (?uLimit ?maxThicknessMM) {
+        (0.28 200)
+    }
+    {
+        SELECT (MAX(xsd:double(?uAsIs)) AS ?worstUAsIs)
+        WHERE {
+            ?interface a bot:Interface ;
+                bot:interfaceOf ?wall, ?covering .
+            ?wall a beo:Wall ;
+                bsddm:hasPropertySet/
+                bsddm:containsProperty ?pU .
+            ?covering a beo:Covering .
+            ?pU a ifcp:thermalTransmittance ;
+                opm:hasPropertyState/
+                schema:value ?uAsIs .
+        }
+    }
+    ?variant a bpo:Product ;
+        schema:model/rdfs:label ?productName ;
+        bpo:hasAttribute ?thicknessAttr, ?lambdaAttr .
+    ?thicknessAttr a dicm:Thickness ;
+        rdf:value/qudt:numericValue ?thicknessMM .
+    ?lambdaAttr a dicm:ThermalConductivity ;
+        rdf:value/qudt:numericValue ?lambda .
+    BIND(
+        1.0 / (
+            1.0 / ?worstUAsIs +
+            (xsd:double(?thicknessMM) / 1000.0) /
+            xsd:double(?lambda)
+        )
+        AS ?uPostWorst
+    )
+    FILTER(
+        xsd:double(?thicknessMM) <= ?maxThicknessMM &&
+        ?uPostWorst <= ?uLimit
+    )
+}
+ORDER BY ?thicknessMM ?variant
