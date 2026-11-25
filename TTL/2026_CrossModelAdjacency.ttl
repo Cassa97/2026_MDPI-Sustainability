@@ -1,0 +1,1755 @@
+@prefix bot: <https://w3id.org/bot#> .
+@prefix ex: <http://example.org/metrics#> .
+@prefix inst: <http://example.org/spheere#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+inst:interface_00af681a935f4714b97c8f1dae2334b9 a bot:Interface ;
+    ex:coverageOnAsIs 1e+02 ;
+    ex:coverageOnToBe 1.210859e+01 ;
+    ex:overlapArea 9.59e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1ba1b7>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2cb4> .
+
+inst:interface_0436a659e1e94278a38586a4002ea91d a bot:Interface ;
+    ex:coverageOnAsIs 1.200474e+01 ;
+    ex:coverageOnToBe 9.556953e+01 ;
+    ex:overlapArea 2.386849e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacf97e>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343ca96> .
+
+inst:interface_07148384898144718e51d0d032e765ac a bot:Interface ;
+    ex:coverageOnAsIs 1.687443e+01 ;
+    ex:coverageOnToBe 1.092955e+01 ;
+    ex:overlapArea 1.169986e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8d18> .
+
+inst:interface_07cbadec8f264cfeba949437c07854d4 a bot:Interface ;
+    ex:coverageOnAsIs 1.852385e+00 ;
+    ex:coverageOnToBe 2.036487e+01 ;
+    ex:overlapArea 3.202416e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8d18> .
+
+inst:interface_082b377dd3544fae81e8567a3491d0f6 a bot:Interface ;
+    ex:coverageOnAsIs 4.0808e+00 ;
+    ex:coverageOnToBe 9.139117e+01 ;
+    ex:overlapArea 1.013985e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf55f> .
+
+inst:interface_0854db3cd2fa4aacaa4640765596a67f a bot:Interface ;
+    ex:coverageOnAsIs 3.991442e+00 ;
+    ex:coverageOnToBe 3.234624e+01 ;
+    ex:overlapArea 4.81959e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e73> .
+
+inst:interface_086362d5dee04e7fa356a7e5d4afc53a a bot:Interface ;
+    ex:coverageOnAsIs 4.240842e+00 ;
+    ex:coverageOnToBe 9.20749e+01 ;
+    ex:overlapArea 1.053752e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf551> .
+
+inst:interface_08824d19c2ad457ab76b74a49295c523 a bot:Interface ;
+    ex:coverageOnAsIs 6.032494e+00 ;
+    ex:coverageOnToBe 6.484683e+01 ;
+    ex:overlapArea 6.958713e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bf91c> .
+
+inst:interface_0a0866a598534a7eb80c19d2a46e64cc a bot:Interface ;
+    ex:coverageOnAsIs 1.298092e+01 ;
+    ex:coverageOnToBe 8.380249e+00 ;
+    ex:overlapArea 8.538217e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9300> .
+
+inst:interface_0d7cd49cf45844828f57c7952cf6cea3 a bot:Interface ;
+    ex:coverageOnAsIs 1e+02 ;
+    ex:coverageOnToBe 1.191897e+01 ;
+    ex:overlapArea 9.59e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1ba1b2>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2ca9> .
+
+inst:interface_0d9430cc74f44464a8067e03c123d9e3 a bot:Interface ;
+    ex:coverageOnAsIs 5.05184e+00 ;
+    ex:coverageOnToBe 9.836153e+01 ;
+    ex:overlapArea 1.056481e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-781264538681> .
+
+inst:interface_0e5e4b7af71d4773b3150e6eaf23a7fa a bot:Interface ;
+    ex:coverageOnAsIs 1.590909e+01 ;
+    ex:coverageOnToBe 3.51375e+01 ;
+    ex:overlapArea 8.541574e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfe8e>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bf909> .
+
+inst:interface_0eb96b73afe943248c44e992e8a08b55 a bot:Interface ;
+    ex:coverageOnAsIs 1.217224e+01 ;
+    ex:coverageOnToBe 5.37877e+01 ;
+    ex:overlapArea 9.290965e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e71> .
+
+inst:interface_0ee0e5b72aa74d2c81d0ecce4b31c497 a bot:Interface ;
+    ex:coverageOnAsIs 3.004936e+01 ;
+    ex:coverageOnToBe 1.110385e+01 ;
+    ex:overlapArea 3.352475e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_db664207-8daa-4194-bc46-19d3b32435fd>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf6f6> .
+
+inst:interface_0ff98601a5494e33ae710a6002be9ea8 a bot:Interface ;
+    ex:coverageOnAsIs 3.977273e+00 ;
+    ex:coverageOnToBe 2.837838e+01 ;
+    ex:overlapArea 3.15e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfca3>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad14f> .
+
+inst:interface_107a36cd85a74943bccf44ea384e0270 a bot:Interface ;
+    ex:coverageOnAsIs 3.735618e+00 ;
+    ex:coverageOnToBe 9.999895e+01 ;
+    ex:overlapArea 6.458162e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca043> .
+
+inst:interface_10b553a9445648559d02b3fff29ad8f9 a bot:Interface ;
+    ex:coverageOnAsIs 5.365766e+00 ;
+    ex:coverageOnToBe 9.816414e+01 ;
+    ex:overlapArea 1.118405e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343c62b> .
+
+inst:interface_1158da84801f40a79c0a7e2b12e1b16c a bot:Interface ;
+    ex:coverageOnAsIs 1.590909e+01 ;
+    ex:coverageOnToBe 3.529753e+01 ;
+    ex:overlapArea 8.580476e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfca3>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bfbc4> .
+
+inst:interface_11606a1398394d43808f6714c7ac663b a bot:Interface ;
+    ex:coverageOnAsIs 1.028629e+01 ;
+    ex:coverageOnToBe 5.050192e+01 ;
+    ex:overlapArea 7.474938e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad11f> .
+
+inst:interface_13a58cb380524765affe22b09ac4e3eb a bot:Interface ;
+    ex:coverageOnAsIs 1.996133e+01 ;
+    ex:coverageOnToBe 5.402753e+01 ;
+    ex:overlapArea 1.511858e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ace4c> .
+
+inst:interface_13bbc6827654458796c21005a56a96b6 a bot:Interface ;
+    ex:coverageOnAsIs 4.460556e+00 ;
+    ex:coverageOnToBe 3.32338e+01 ;
+    ex:overlapArea 4.785666e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e7d> .
+
+inst:interface_13ef8f21c9054a978d14972817276076 a bot:Interface ;
+    ex:coverageOnAsIs 5.390778e+01 ;
+    ex:coverageOnToBe 7.149029e+01 ;
+    ex:overlapArea 2.002901e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c29ac> .
+
+inst:interface_14bd25df89f24f16a6ab4a2201069f37 a bot:Interface ;
+    ex:coverageOnAsIs 7.192215e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.7871e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9ab0> .
+
+inst:interface_15975fd23b4147c08d375b893ab7702c a bot:Interface ;
+    ex:coverageOnAsIs 8.435836e+00 ;
+    ex:coverageOnToBe 8.002734e+01 ;
+    ex:overlapArea 6.439e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2ca9> .
+
+inst:interface_17ca6658b3664c6bb0aa48eb292b7050 a bot:Interface ;
+    ex:coverageOnAsIs 3.53383e+01 ;
+    ex:coverageOnToBe 4.408121e+01 ;
+    ex:overlapArea 4.718805e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa96c>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8d18> .
+
+inst:interface_191209c5e8ce47d39552f5df27bd5147 a bot:Interface ;
+    ex:coverageOnAsIs 4.209977e+00 ;
+    ex:coverageOnToBe 3.513513e+01 ;
+    ex:overlapArea 8.774999e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cacc> .
+
+inst:interface_196add9a45b14433b4157e9c471d139d a bot:Interface ;
+    ex:coverageOnAsIs 5.121809e+00 ;
+    ex:coverageOnToBe 9.735332e+01 ;
+    ex:overlapArea 1.067556e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-7292034038c7> .
+
+inst:interface_19ffa5edc30e4311b18defd7dabac5a4 a bot:Interface ;
+    ex:coverageOnAsIs 5.043722e-01 ;
+    ex:coverageOnToBe 4.150931e+00 ;
+    ex:overlapArea 1.253249e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88e6> .
+
+inst:interface_1a2e1595aa7748c8adc530f0929a5f96 a bot:Interface ;
+    ex:coverageOnAsIs 4.448898e+01 ;
+    ex:coverageOnToBe 7.963689e+01 ;
+    ex:overlapArea 3.184942e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfe5e>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bf70a> .
+
+inst:interface_1aa44e3db2b446c99370973b194ade54 a bot:Interface ;
+    ex:coverageOnAsIs 4.204545e+01 ;
+    ex:coverageOnToBe 9.328632e+01 ;
+    ex:overlapArea 2.267697e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfca3>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bfa59> .
+
+inst:interface_1b318046edb64dd2bc0a125c4b34b977 a bot:Interface ;
+    ex:coverageOnAsIs 1.270072e+01 ;
+    ex:coverageOnToBe 7.5e+01 ;
+    ex:overlapArea 8.325e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad14d> .
+
+inst:interface_1bb1a8d33a834bda9a96062b9197db34 a bot:Interface ;
+    ex:coverageOnAsIs 2.44967e+01 ;
+    ex:coverageOnToBe 9.204599e+00 ;
+    ex:overlapArea 2.779053e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_db664207-8daa-4194-bc46-19d3b3244b17>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf6f6> .
+
+inst:interface_1c0413f29ad540bf9b529a7e81669031 a bot:Interface ;
+    ex:coverageOnAsIs 3.696859e+00 ;
+    ex:coverageOnToBe 6.814763e+01 ;
+    ex:overlapArea 9.185844e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf554> .
+
+inst:interface_1c6756a7e33a415388140d9ead3570d8 a bot:Interface ;
+    ex:coverageOnAsIs 3.908445e+00 ;
+    ex:coverageOnToBe 8.495462e+01 ;
+    ex:overlapArea 9.711587e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf553> .
+
+inst:interface_1cc65b4626924902b71c83211a04486d a bot:Interface ;
+    ex:coverageOnAsIs 3.622875e+00 ;
+    ex:coverageOnToBe 5.691559e+01 ;
+    ex:overlapArea 8.93091e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9ce3> .
+
+inst:interface_1ceb1cd3cd274090976d0ea44c7422ec a bot:Interface ;
+    ex:coverageOnAsIs 1e+02 ;
+    ex:coverageOnToBe 8.069722e+00 ;
+    ex:overlapArea 8.1e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1ba1b3>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2ca8> .
+
+inst:interface_1d34757245404f3ab0f96bc6583f1c01 a bot:Interface ;
+    ex:coverageOnAsIs 7.749507e+00 ;
+    ex:coverageOnToBe 6.16937e+01 ;
+    ex:overlapArea 1.5408e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacf97e>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cacd> .
+
+inst:interface_22e8ff74eec942f2893f3c8af95821f2 a bot:Interface ;
+    ex:coverageOnAsIs 8.240087e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 2.0313e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9cef> .
+
+inst:interface_23ab2b22a37c4d53a9056a6ce4165fc2 a bot:Interface ;
+    ex:coverageOnAsIs 1.112812e+01 ;
+    ex:coverageOnToBe 5.644229e+01 ;
+    ex:overlapArea 8.494e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e72> .
+
+inst:interface_2434a68f2c2e4911bf2d1cdf1dee6f74 a bot:Interface ;
+    ex:coverageOnAsIs 6.212539e+00 ;
+    ex:coverageOnToBe 8.739331e+01 ;
+    ex:overlapArea 1.074028e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7caca9> .
+
+inst:interface_24e2a33ececa4b13ab6a432b7170ede0 a bot:Interface ;
+    ex:coverageOnAsIs 5.650326e+00 ;
+    ex:coverageOnToBe 9.410531e+01 ;
+    ex:overlapArea 1.13347e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8787> .
+
+inst:interface_251212f085734b318797dd2c091de273 a bot:Interface ;
+    ex:coverageOnAsIs 8.170574e+00 ;
+    ex:coverageOnToBe 6.486487e+01 ;
+    ex:overlapArea 1.62e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac84c6>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-7812645382ce> .
+
+inst:interface_251944a63e9348079a8b30ef1d416faf a bot:Interface ;
+    ex:coverageOnAsIs 1.154604e+01 ;
+    ex:coverageOnToBe 9.668064e+01 ;
+    ex:overlapArea 2.414599e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-781264538112> .
+
+inst:interface_259710969abb4133afab669b034946ad a bot:Interface ;
+    ex:coverageOnAsIs 6.749589e+00 ;
+    ex:coverageOnToBe 8.610147e+01 ;
+    ex:overlapArea 9.09309e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad11d> .
+
+inst:interface_265fe1a2d73843d1900b61315811788b a bot:Interface ;
+    ex:coverageOnAsIs 6.403912e+01 ;
+    ex:coverageOnToBe 2.366376e+01 ;
+    ex:overlapArea 7.144562e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_db664207-8daa-4194-bc46-19d3b32435fd>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88e6> .
+
+inst:interface_27436502808c4deb8fe1a9c5883b0404 a bot:Interface ;
+    ex:coverageOnAsIs 1.13586e+01 ;
+    ex:coverageOnToBe 9.511111e+01 ;
+    ex:overlapArea 2.3754e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-78126453813d> .
+
+inst:interface_279a9966894f4f92bb6d33482f57bba6 a bot:Interface ;
+    ex:coverageOnAsIs 7.899363e+00 ;
+    ex:coverageOnToBe 6.271177e+01 ;
+    ex:overlapArea 1.566226e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac84c6>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-781264538131> .
+
+inst:interface_27c50c649f9544fc958c9696d976a678 a bot:Interface ;
+    ex:coverageOnAsIs 1.489789e+01 ;
+    ex:coverageOnToBe 6.654196e+01 ;
+    ex:overlapArea 8.774375e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9ce0> .
+
+inst:interface_2beb7027502a42e690bd3685b4daba3a a bot:Interface ;
+    ex:coverageOnAsIs 4.408537e+00 ;
+    ex:coverageOnToBe 3.572635e+01 ;
+    ex:overlapArea 5.323225e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e7c> .
+
+inst:interface_2e34818ab77d45e5b3bc913cce81298b a bot:Interface ;
+    ex:coverageOnAsIs 7.249475e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.7871e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca815> .
+
+inst:interface_2ede0cdb194746088f2f4fd39fb44635 a bot:Interface ;
+    ex:coverageOnAsIs 8.204939e+00 ;
+    ex:coverageOnToBe 8.690987e+01 ;
+    ex:overlapArea 9.907308e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c3a8f> .
+
+inst:interface_2ee30a6c39be421eb15913cd236bc114 a bot:Interface ;
+    ex:coverageOnAsIs 3.63442e+00 ;
+    ex:coverageOnToBe 3.250081e+01 ;
+    ex:overlapArea 4.896314e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad126> .
+
+inst:interface_309a8875a8b64c098a3ecfd276893940 a bot:Interface ;
+    ex:coverageOnAsIs 1.051136e+01 ;
+    ex:coverageOnToBe 7.5e+01 ;
+    ex:overlapArea 8.325e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfca3>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad141> .
+
+inst:interface_32f6580798394d2dad172a9e1e3a39ed a bot:Interface ;
+    ex:coverageOnAsIs 1.194716e+01 ;
+    ex:coverageOnToBe 9.511111e+01 ;
+    ex:overlapArea 2.3754e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacf97e>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343ca90> .
+
+inst:interface_33372ec0e9174abba7586e964b9f7f93 a bot:Interface ;
+    ex:coverageOnAsIs 4.276947e+00 ;
+    ex:coverageOnToBe 6.887319e+01 ;
+    ex:overlapArea 5.761931e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad5b7> .
+
+inst:interface_33db6d2f8bd84cd8a91a7b30632bcfc4 a bot:Interface ;
+    ex:coverageOnAsIs 9.999828e+01 ;
+    ex:coverageOnToBe 8.96033e+00 ;
+    ex:overlapArea 8.09986e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1ba1aa>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad141> .
+
+inst:interface_35deda2614af440db6067b97ecd19eb9 a bot:Interface ;
+    ex:coverageOnAsIs 1.198048e+01 ;
+    ex:coverageOnToBe 9.511111e+01 ;
+    ex:overlapArea 2.3754e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac84c6>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-7812645382c3> .
+
+inst:interface_36e333e1a7e9477c8b590696990b01cd a bot:Interface ;
+    ex:coverageOnAsIs 3.770337e+00 ;
+    ex:coverageOnToBe 9.122464e+01 ;
+    ex:overlapArea 9.294423e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c906e> .
+
+inst:interface_37f74cb200b84f7a8010e5135b85fa31 a bot:Interface ;
+    ex:coverageOnAsIs 4.659435e+00 ;
+    ex:coverageOnToBe 3.257135e+01 ;
+    ex:overlapArea 5.62618e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e71> .
+
+inst:interface_3930a3d854b14a4ba886226141e78a73 a bot:Interface ;
+    ex:coverageOnAsIs 5.432178e+00 ;
+    ex:coverageOnToBe 3.207798e+01 ;
+    ex:overlapArea 3.560656e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad14f> .
+
+inst:interface_3982c0fad6ce4c908bb51cf7604d8ae2 a bot:Interface ;
+    ex:coverageOnAsIs 1.794544e+01 ;
+    ex:coverageOnToBe 1.040519e+01 ;
+    ex:overlapArea 1.244245e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8b3d> .
+
+inst:interface_3a88415ac1cc4d65813a05b22a662cd6 a bot:Interface ;
+    ex:coverageOnAsIs 1e+02 ;
+    ex:coverageOnToBe 8.115598e+00 ;
+    ex:overlapArea 8.1e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1ba1b4>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ace71> .
+
+inst:interface_3b30d9492c8540049050e0b69e4aea1f a bot:Interface ;
+    ex:coverageOnAsIs 7.084218e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.476588e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343c4d4> .
+
+inst:interface_3c79a95418c5401d8fa497b078a8c793 a bot:Interface ;
+    ex:coverageOnAsIs 4.023455e+00 ;
+    ex:coverageOnToBe 3.357848e+01 ;
+    ex:overlapArea 8.386226e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cac3> .
+
+inst:interface_3f25e5656f254781b2e388e538cd9cb3 a bot:Interface ;
+    ex:coverageOnAsIs 2.591331e+00 ;
+    ex:coverageOnToBe 3.27967e+01 ;
+    ex:overlapArea 5.198277e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf3f2> .
+
+inst:interface_405d8a33d29c47b4bc625c9101b120e3 a bot:Interface ;
+    ex:coverageOnAsIs 1.194716e+01 ;
+    ex:coverageOnToBe 9.511111e+01 ;
+    ex:overlapArea 2.3754e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacf97e>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343ce5e> .
+
+inst:interface_40ea95a21b3a419cb9494e30f2bb5126 a bot:Interface ;
+    ex:coverageOnAsIs 3.280649e+00 ;
+    ex:coverageOnToBe 5.814208e+01 ;
+    ex:overlapArea 8.087273e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cab6f> .
+
+inst:interface_42b74f33e50c4bde85241a362ee831a7 a bot:Interface ;
+    ex:coverageOnAsIs 7.102154e+00 ;
+    ex:coverageOnToBe 8.653795e+01 ;
+    ex:overlapArea 9.568068e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad11c> .
+
+inst:interface_4418f21adc9749dd9e4f3d9bf73d722b a bot:Interface ;
+    ex:coverageOnAsIs 4.398743e+00 ;
+    ex:coverageOnToBe 3.529403e+01 ;
+    ex:overlapArea 5.311399e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e72> .
+
+inst:interface_443e52ccce814f938825a8314850e838 a bot:Interface ;
+    ex:coverageOnAsIs 1.693584e+01 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.11e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c21f3> .
+
+inst:interface_44f2df6ea69f4828b3b7391824c24550 a bot:Interface ;
+    ex:coverageOnAsIs 9.58677e-01 ;
+    ex:coverageOnToBe 7.827493e+00 ;
+    ex:overlapArea 2.363277e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88e6> .
+
+inst:interface_453b16a7a1964f3b99920bab57772956 a bot:Interface ;
+    ex:coverageOnAsIs 7.231062e+00 ;
+    ex:coverageOnToBe 4.26968e+01 ;
+    ex:overlapArea 4.739344e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e7d> .
+
+inst:interface_4a50f8c58daa4dba9dc9860421d7b132 a bot:Interface ;
+    ex:coverageOnAsIs 3.174994e+00 ;
+    ex:coverageOnToBe 5.509321e+01 ;
+    ex:overlapArea 7.826816e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cab6e> .
+
+inst:interface_4b73123952ca4333851ff8b38772633c a bot:Interface ;
+    ex:coverageOnAsIs 4.195996e+00 ;
+    ex:coverageOnToBe 3.513513e+01 ;
+    ex:overlapArea 8.774999e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-7812645382ce> .
+
+inst:interface_4ca151843db64406bd55a92681b9cd8e a bot:Interface ;
+    ex:coverageOnAsIs 3.070575e+00 ;
+    ex:coverageOnToBe 3.935359e+01 ;
+    ex:overlapArea 6.159654e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf15a> .
+
+inst:interface_4d8c5d090a0c419faa39f4ef03aafbae a bot:Interface ;
+    ex:coverageOnAsIs 7.771123e+00 ;
+    ex:coverageOnToBe 6.16937e+01 ;
+    ex:overlapArea 1.5408e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac84c6>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-7812645382cf> .
+
+inst:interface_4e817c3531a540c6ae3e25189e9a6e03 a bot:Interface ;
+    ex:coverageOnAsIs 1.424379e+01 ;
+    ex:coverageOnToBe 7.923652e+00 ;
+    ex:overlapArea 9.057923e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9b>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf553> .
+
+inst:interface_4e880f5b3f6a4d6cb19e2fce355491fa a bot:Interface ;
+    ex:coverageOnAsIs 3.783919e-01 ;
+    ex:coverageOnToBe 6.939042e+01 ;
+    ex:overlapArea 2.749734e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad14e> .
+
+inst:interface_4fb00c22b4eb4dd3bf77a385e602cf17 a bot:Interface ;
+    ex:coverageOnAsIs 1.958236e+00 ;
+    ex:coverageOnToBe 2.179345e+01 ;
+    ex:overlapArea 3.385411e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8b3d> .
+
+inst:interface_505265f86a974affbc9826416df485e8 a bot:Interface ;
+    ex:coverageOnAsIs 4.797173e+00 ;
+    ex:coverageOnToBe 8.661211e+01 ;
+    ex:overlapArea 9.623255e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8350> .
+
+inst:interface_53d394cf5fea4188ba13cd0bf2da6de7 a bot:Interface ;
+    ex:coverageOnAsIs 8.308681e+00 ;
+    ex:coverageOnToBe 3.94273e+01 ;
+    ex:overlapArea 9.584383e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bf909> .
+
+inst:interface_556e39d32e384aedb7028d3cb6e6c3d4 a bot:Interface ;
+    ex:coverageOnAsIs 3.459798e+00 ;
+    ex:coverageOnToBe 5.474449e+01 ;
+    ex:overlapArea 8.596801e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cfe12> .
+
+inst:interface_580b3dddf3c948f7bda9a38f5f95dfb4 a bot:Interface ;
+    ex:coverageOnAsIs 5.835642e+00 ;
+    ex:coverageOnToBe 7.416689e+01 ;
+    ex:overlapArea 4.240699e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad5cb> .
+
+inst:interface_58c2d75665794a558ef20255d23817db a bot:Interface ;
+    ex:coverageOnAsIs 1.101454e+01 ;
+    ex:coverageOnToBe 5.18331e+01 ;
+    ex:overlapArea 8.004153e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_32685768-14f2-47f8-b358-6c6168b7a118> .
+
+inst:interface_58f50e9ec7cb4997a195b2dcba05bc44 a bot:Interface ;
+    ex:coverageOnAsIs 5.664323e+00 ;
+    ex:coverageOnToBe 9.187335e+01 ;
+    ex:overlapArea 1.136278e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c818d> .
+
+inst:interface_590b70c353bb48c7acf01485f355b70b a bot:Interface ;
+    ex:coverageOnAsIs 3.964927e+00 ;
+    ex:coverageOnToBe 8.540773e+01 ;
+    ex:overlapArea 9.774116e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9316> .
+
+inst:interface_5b0b5a74cdca4e559329f171afacdf28 a bot:Interface ;
+    ex:coverageOnAsIs 3.915649e+00 ;
+    ex:coverageOnToBe 9.999897e+01 ;
+    ex:overlapArea 6.7694e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca044> .
+
+inst:interface_5bd1fe698a784cc1a0fd19dc232a1120 a bot:Interface ;
+    ex:coverageOnAsIs 1.446281e+01 ;
+    ex:coverageOnToBe 3.783784e+01 ;
+    ex:overlapArea 4.2e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfe8e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e7d> .
+
+inst:interface_5cf604d969fb4bed9154f9010e7c0362 a bot:Interface ;
+    ex:coverageOnAsIs 3.30458e+00 ;
+    ex:coverageOnToBe 4.107251e+01 ;
+    ex:overlapArea 5.712981e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cab6f> .
+
+inst:interface_5d286b90228447db9c587e63111bd5d9 a bot:Interface ;
+    ex:coverageOnAsIs 9.868961e+00 ;
+    ex:coverageOnToBe 9.807132e+01 ;
+    ex:overlapArea 1.329553e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_32685768-14f2-47f8-b358-6c6168b7a2b9> .
+
+inst:interface_5d2a29239a7f4e7abe2706327dc00956 a bot:Interface ;
+    ex:coverageOnAsIs 6.04387e+00 ;
+    ex:coverageOnToBe 9.552226e+01 ;
+    ex:overlapArea 1.212416e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8341> .
+
+inst:interface_5e401551f66d470ebd23ee4829aba872 a bot:Interface ;
+    ex:coverageOnAsIs 1.154604e+01 ;
+    ex:coverageOnToBe 9.668064e+01 ;
+    ex:overlapArea 2.414599e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-78126453813f> .
+
+inst:interface_5fa41300adcb4e91839cf539070d376c a bot:Interface ;
+    ex:coverageOnAsIs 3.448732e+00 ;
+    ex:coverageOnToBe 3.422339e+01 ;
+    ex:overlapArea 5.962191e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cab6b> .
+
+inst:interface_5fc6bf485fcd4a449658353ea18717ca a bot:Interface ;
+    ex:coverageOnAsIs 3.990859e+00 ;
+    ex:coverageOnToBe 3.341742e+01 ;
+    ex:overlapArea 8.345999e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-7812645382cf> .
+
+inst:interface_5ff121b8b6b544f4b7be267823e180e9 a bot:Interface ;
+    ex:coverageOnAsIs 4.057439e+01 ;
+    ex:coverageOnToBe 2.369578e+01 ;
+    ex:overlapArea 3.68092e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa962>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8b3d> .
+
+inst:interface_6056f366a9c640f29a88505b21f0e06e a bot:Interface ;
+    ex:coverageOnAsIs 1.051136e+01 ;
+    ex:coverageOnToBe 7.5e+01 ;
+    ex:overlapArea 8.325e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfca3>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad14e> .
+
+inst:interface_6061c3e8993047be8c33c132eacbfd0c a bot:Interface ;
+    ex:coverageOnAsIs 9.725441e+00 ;
+    ex:coverageOnToBe 8.226759e+01 ;
+    ex:overlapArea 5.727972e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca18e> .
+
+inst:interface_620870c4f07a41a1aa952b31299168c5 a bot:Interface ;
+    ex:coverageOnAsIs 6.967118e+01 ;
+    ex:coverageOnToBe 2.617884e+01 ;
+    ex:overlapArea 7.903917e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_db664207-8daa-4194-bc46-19d3b3244b17>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88e6> .
+
+inst:interface_624cf61d7c4f43e0af32b6e3db726dc7 a bot:Interface ;
+    ex:coverageOnAsIs 1.314522e+01 ;
+    ex:coverageOnToBe 8.486316e+00 ;
+    ex:overlapArea 8.646283e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c906e> .
+
+inst:interface_6599177f52b54367a59ac0c17300235b a bot:Interface ;
+    ex:coverageOnAsIs 1.098821e+01 ;
+    ex:coverageOnToBe 5.628994e+01 ;
+    ex:overlapArea 8.387202e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e73> .
+
+inst:interface_65a3e0d993a54ad1b958e5280cdf8971 a bot:Interface ;
+    ex:coverageOnAsIs 3.898607e+00 ;
+    ex:coverageOnToBe 8.522554e+01 ;
+    ex:overlapArea 9.68714e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf552> .
+
+inst:interface_6642b37304f2490297416143926783cb a bot:Interface ;
+    ex:coverageOnAsIs 7.192215e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.7871e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9ab8> .
+
+inst:interface_66e3b7d209b442399ba67b7e32ff84a6 a bot:Interface ;
+    ex:coverageOnAsIs 5.538462e+01 ;
+    ex:coverageOnToBe 7.274863e+00 ;
+    ex:overlapArea 2.196427e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fae7d>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88a6> .
+
+inst:interface_680007c4f04b4acda7342df80396e5da a bot:Interface ;
+    ex:coverageOnAsIs 4.204545e+01 ;
+    ex:coverageOnToBe 9.328632e+01 ;
+    ex:overlapArea 2.267697e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfca3>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bfd8c> .
+
+inst:interface_68c210c0817b40bc95dfbcbf163d4464 a bot:Interface ;
+    ex:coverageOnAsIs 7.104469e+00 ;
+    ex:coverageOnToBe 8.05106e+01 ;
+    ex:overlapArea 5.162742e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad5c9> .
+
+inst:interface_69583d87a78c4a39bd45f8206a08a4b5 a bot:Interface ;
+    ex:coverageOnAsIs 1.283734e+01 ;
+    ex:coverageOnToBe 6.005773e+00 ;
+    ex:overlapArea 8.443774e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c931c> .
+
+inst:interface_6ad8f7e97e204cd1a717b68d351e7271 a bot:Interface ;
+    ex:coverageOnAsIs 8.630712e+00 ;
+    ex:coverageOnToBe 8.317862e+01 ;
+    ex:overlapArea 6.587747e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2cb4> .
+
+inst:interface_6afdd87e086e4e908ee70af698416a78 a bot:Interface ;
+    ex:coverageOnAsIs 4.059734e-01 ;
+    ex:coverageOnToBe 1.022233e+01 ;
+    ex:overlapArea 2.950166e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad139> .
+
+inst:interface_6b3606af837c4c5b9ffbb38b469e3db0 a bot:Interface ;
+    ex:coverageOnAsIs 5.84401e+00 ;
+    ex:coverageOnToBe 7.798108e+01 ;
+    ex:overlapArea 7.056531e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c21f7> .
+
+inst:interface_6bb1d99bd6bd418880c27707ad29a70b a bot:Interface ;
+    ex:coverageOnAsIs 1e+02 ;
+    ex:coverageOnToBe 8.30736e+00 ;
+    ex:overlapArea 7.98e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1ba1b6>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad111> .
+
+inst:interface_6bcefc246d18415ebf5448d67ab14b42 a bot:Interface ;
+    ex:coverageOnAsIs 1e+02 ;
+    ex:coverageOnToBe 8.196672e+00 ;
+    ex:overlapArea 8.1e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1ba1ab>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad138> .
+
+inst:interface_6ca51aace64e4013b4fe88690066c08e a bot:Interface ;
+    ex:coverageOnAsIs 6.022112e+00 ;
+    ex:coverageOnToBe 9.031654e+01 ;
+    ex:overlapArea 1.041107e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7caf20> .
+
+inst:interface_6fbc7452357744b79cd6775f75082492 a bot:Interface ;
+    ex:coverageOnAsIs 5.24969e+00 ;
+    ex:coverageOnToBe 9.999969e+01 ;
+    ex:overlapArea 1.053102e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8786> .
+
+inst:interface_71a47d7b150f4c2da6fad8713613485c a bot:Interface ;
+    ex:coverageOnAsIs 2.015124e+01 ;
+    ex:coverageOnToBe 5.960904e+01 ;
+    ex:overlapArea 6.367557e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c21f3> .
+
+inst:interface_72c0224ef2ca42f992071a4f0426f841 a bot:Interface ;
+    ex:coverageOnAsIs 3.109615e+00 ;
+    ex:coverageOnToBe 8.536586e+01 ;
+    ex:overlapArea 5.375923e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca18d> .
+
+inst:interface_741da4d385d14034b05a9594653e2721 a bot:Interface ;
+    ex:coverageOnAsIs 5.074562e+00 ;
+    ex:coverageOnToBe 8.648875e+01 ;
+    ex:overlapArea 1.01797e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8478> .
+
+inst:interface_7516cd451b2f4c4185ae75cf90e7742d a bot:Interface ;
+    ex:coverageOnAsIs 3.684772e+00 ;
+    ex:coverageOnToBe 9.105802e+01 ;
+    ex:overlapArea 9.083493e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9e2c> .
+
+inst:interface_758bb2ca3f214a299f73a0d22ef6f663 a bot:Interface ;
+    ex:coverageOnAsIs 8.175002e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 2.0313e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9863> .
+
+inst:interface_764533e595eb41738af70006a1d8b71c a bot:Interface ;
+    ex:coverageOnAsIs 5.518963e+00 ;
+    ex:coverageOnToBe 8.927564e+01 ;
+    ex:overlapArea 1.107118e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8332> .
+
+inst:interface_76dbe1f6c6994f0886968e134cb4ad22 a bot:Interface ;
+    ex:coverageOnAsIs 1.404254e+01 ;
+    ex:coverageOnToBe 8.876677e+01 ;
+    ex:overlapArea 1.61986e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bed1a> .
+
+inst:interface_77cc976703454f9185ebab821f01bb11 a bot:Interface ;
+    ex:coverageOnAsIs 3.873609e+00 ;
+    ex:coverageOnToBe 6.770304e+01 ;
+    ex:overlapArea 5.218551e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad5b6> .
+
+inst:interface_78daac38262c446aab80ba9da1754252 a bot:Interface ;
+    ex:coverageOnAsIs 1.138811e+01 ;
+    ex:coverageOnToBe 9.976072e+01 ;
+    ex:overlapArea 2.373663e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343c6ef> .
+
+inst:interface_78f17bf35c92472ca3712a557647895e a bot:Interface ;
+    ex:coverageOnAsIs 1.220772e+01 ;
+    ex:coverageOnToBe 8.04936e+00 ;
+    ex:overlapArea 8.029639e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9e2c> .
+
+inst:interface_7ac512ae0cb34724953a1271a7efe666 a bot:Interface ;
+    ex:coverageOnAsIs 1.13586e+01 ;
+    ex:coverageOnToBe 9.511111e+01 ;
+    ex:overlapArea 2.3754e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-781264538110> .
+
+inst:interface_7c5a21b0cf904d149d29f4998f1d0ec0 a bot:Interface ;
+    ex:coverageOnAsIs 7.249475e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.7871e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca890> .
+
+inst:interface_7cee652d4e8f437692589f91f720b281 a bot:Interface ;
+    ex:coverageOnAsIs 4.3209e+00 ;
+    ex:coverageOnToBe 8.315929e+01 ;
+    ex:overlapArea 5.217405e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c3a8c> .
+
+inst:interface_7d0acaf63f624a3fb6b08c9882dbe018 a bot:Interface ;
+    ex:coverageOnAsIs 2.518221e+00 ;
+    ex:coverageOnToBe 6.2753e+01 ;
+    ex:overlapArea 5.051617e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf06e> .
+
+inst:interface_7d0ba123cfd0495189539f848af41bcb a bot:Interface ;
+    ex:coverageOnAsIs 1.162657e+01 ;
+    ex:coverageOnToBe 7.305441e+01 ;
+    ex:overlapArea 1.341169e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198befe4> .
+
+inst:interface_7d86778d86d1437ca61705c60d6778ef a bot:Interface ;
+    ex:coverageOnAsIs 1.457372e+01 ;
+    ex:coverageOnToBe 8.903605e+01 ;
+    ex:overlapArea 1.681134e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bed1b> .
+
+inst:interface_7d910de40ff74e4c9ce4f9226798a2f1 a bot:Interface ;
+    ex:coverageOnAsIs 3.476465e+00 ;
+    ex:coverageOnToBe 4.230554e+01 ;
+    ex:overlapArea 6.010136e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cab6d> .
+
+inst:interface_81a1ee04b9ae47f5aaa23e1a5e59ca7d a bot:Interface ;
+    ex:coverageOnAsIs 8.646457e+00 ;
+    ex:coverageOnToBe 8.053405e+01 ;
+    ex:overlapArea 6.599765e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2caa> .
+
+inst:interface_81eeae23552f40b089240d403d599cb2 a bot:Interface ;
+    ex:coverageOnAsIs 3.838118e+01 ;
+    ex:coverageOnToBe 2.214249e+01 ;
+    ex:overlapArea 3.481951e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa962>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8d18> .
+
+inst:interface_828ef08e589244e0be613821a8940fda a bot:Interface ;
+    ex:coverageOnAsIs 1.720226e+01 ;
+    ex:coverageOnToBe 8.35971e+01 ;
+    ex:overlapArea 5.435713e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c3a8d> .
+
+inst:interface_8300e2c90aba4c1cbf79b4527d022a99 a bot:Interface ;
+    ex:coverageOnAsIs 4.204545e+01 ;
+    ex:coverageOnToBe 9.286338e+01 ;
+    ex:overlapArea 2.257416e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfe8e>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bf768> .
+
+inst:interface_86564f1359444129998196ad89eec793 a bot:Interface ;
+    ex:coverageOnAsIs 1.525416e+01 ;
+    ex:coverageOnToBe 8.767371e+00 ;
+    ex:overlapArea 1.003344e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9316> .
+
+inst:interface_8753ce6f2c8246f7855aff3c8f1c6f68 a bot:Interface ;
+    ex:coverageOnAsIs 1.936237e+01 ;
+    ex:coverageOnToBe 6.159799e+01 ;
+    ex:overlapArea 6.118282e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c3a88> .
+
+inst:interface_8b56d59a0b9142bb8b1385987fed9ee7 a bot:Interface ;
+    ex:coverageOnAsIs 6.649093e+00 ;
+    ex:coverageOnToBe 8.065314e+01 ;
+    ex:overlapArea 8.957701e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad14c> .
+
+inst:interface_8bc2c09174344fa5a123c2fce5f6cb60 a bot:Interface ;
+    ex:coverageOnAsIs 7.214375e+00 ;
+    ex:coverageOnToBe 9.281382e+01 ;
+    ex:overlapArea 1.792606e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9ad0> .
+
+inst:interface_8bfdb437a11249ff823d60b219850f86 a bot:Interface ;
+    ex:coverageOnAsIs 4.461538e+01 ;
+    ex:coverageOnToBe 6.37271e+00 ;
+    ex:overlapArea 1.924048e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb89>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf6f6> .
+
+inst:interface_8ca83969fc6d4c01a57c24ac81361d03 a bot:Interface ;
+    ex:coverageOnAsIs 9.433828e+01 ;
+    ex:coverageOnToBe 1.951826e+01 ;
+    ex:overlapArea 7.6414e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1ba1b5>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad5cb> .
+
+inst:interface_8f00be6391564151a8c790f6cabffa43 a bot:Interface ;
+    ex:coverageOnAsIs 5.527424e+00 ;
+    ex:coverageOnToBe 6.017169e+01 ;
+    ex:overlapArea 6.376096e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bf340> .
+
+inst:interface_8fd6b9a32a17440ea282fc6540ea6c43 a bot:Interface ;
+    ex:coverageOnAsIs 6.201552e+00 ;
+    ex:coverageOnToBe 2.444103e+00 ;
+    ex:overlapArea 7.379235e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_7b8660c5-62f5-4750-94e5-52c0612a4fe0>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf6f6> .
+
+inst:interface_90cd9d658bec41ee884a45d672b576d4 a bot:Interface ;
+    ex:coverageOnAsIs 9.984172e+00 ;
+    ex:coverageOnToBe 9.999852e+01 ;
+    ex:overlapArea 2.087969e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-781264538113> .
+
+inst:interface_93a0bfe887ba441f9fe01ec8198a8f0d a bot:Interface ;
+    ex:coverageOnAsIs 4.056716e+00 ;
+    ex:coverageOnToBe 3.396887e+01 ;
+    ex:overlapArea 8.483726e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-781264538131> .
+
+inst:interface_9401a07af1884584b88bdb8dc338e0d8 a bot:Interface ;
+    ex:coverageOnAsIs 9.428487e+00 ;
+    ex:coverageOnToBe 7.579443e+01 ;
+    ex:overlapArea 6.851582e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad141> .
+
+inst:interface_9455209358d645dfb8ea200014b99ab6 a bot:Interface ;
+    ex:coverageOnAsIs 3.074403e+00 ;
+    ex:coverageOnToBe 3.924792e+01 ;
+    ex:overlapArea 6.167334e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf0e6> .
+
+inst:interface_94677b9a04554a87a75bef0898b705e5 a bot:Interface ;
+    ex:coverageOnAsIs 1.25963e+01 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 2.4975e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac84c6>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-781264538259> .
+
+inst:interface_95abf85c5171456492fa08a57105ab52 a bot:Interface ;
+    ex:coverageOnAsIs 5.367232e+01 ;
+    ex:coverageOnToBe 2.6601e+01 ;
+    ex:overlapArea 4.18306e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_1a9b8975-f938-4aa4-928e-e208c5c30ff4>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8d18> .
+
+inst:interface_98da853342ac4a6ea9eeb4c5521f7342 a bot:Interface ;
+    ex:coverageOnAsIs 3.822314e+01 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.11e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfe8e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c10e5> .
+
+inst:interface_992a0f5424f3493cb20b703f6c93c457 a bot:Interface ;
+    ex:coverageOnAsIs 7.822475e+00 ;
+    ex:coverageOnToBe 3.71201e+01 ;
+    ex:overlapArea 9.023526e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bfbc4> .
+
+inst:interface_9a9c26f92e1e4dc1822e4180914646a7 a bot:Interface ;
+    ex:coverageOnAsIs 1.079622e+01 ;
+    ex:coverageOnToBe 5.207693e+01 ;
+    ex:overlapArea 7.845496e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad126> .
+
+inst:interface_9b3cf26f71d8489a97bf1ece9bbfb4ab a bot:Interface ;
+    ex:coverageOnAsIs 6.209354e+00 ;
+    ex:coverageOnToBe 9.113802e+01 ;
+    ex:overlapArea 1.073477e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca2e9> .
+
+inst:interface_9c6b0df69363431986c36391bf939b96 a bot:Interface ;
+    ex:coverageOnAsIs 3.550359e+00 ;
+    ex:coverageOnToBe 4.030328e+01 ;
+    ex:overlapArea 6.137885e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cab6c> .
+
+inst:interface_9d224c6cd7cd4f16a1d0068ccedd1cba a bot:Interface ;
+    ex:coverageOnAsIs 7.786858e+00 ;
+    ex:coverageOnToBe 6.199105e+01 ;
+    ex:overlapArea 1.548226e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacf97e>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cac3> .
+
+inst:interface_9d68761eca0f4f929dcc993c499089dc a bot:Interface ;
+    ex:coverageOnAsIs 7.024588e+00 ;
+    ex:coverageOnToBe 8.756228e+01 ;
+    ex:overlapArea 9.46357e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad124> .
+
+inst:interface_9f1f2abbfed64568b56905d7e59c4508 a bot:Interface ;
+    ex:coverageOnAsIs 1e+02 ;
+    ex:coverageOnToBe 1.170226e+01 ;
+    ex:overlapArea 9.59e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1ba1b1>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2caa> .
+
+inst:interface_9f5b8938b6f346899db5ee7ba80c21d4 a bot:Interface ;
+    ex:coverageOnAsIs 1.579799e+01 ;
+    ex:coverageOnToBe 6.656121e+01 ;
+    ex:overlapArea 9.304508e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9ce1> .
+
+inst:interface_9fac2bac5cd641c5b6f8793c278fe4d5 a bot:Interface ;
+    ex:coverageOnAsIs 3.701441e+00 ;
+    ex:coverageOnToBe 6.490011e+01 ;
+    ex:overlapArea 9.124586e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c931c> .
+
+inst:interface_9fcc3d932e8d4579b5dcc0089fc9c131 a bot:Interface ;
+    ex:coverageOnAsIs 4.004156e+00 ;
+    ex:coverageOnToBe 3.341742e+01 ;
+    ex:overlapArea 8.345999e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cacd> .
+
+inst:interface_a211898d3e964ed1afe08e7543a357a9 a bot:Interface ;
+    ex:coverageOnAsIs 3.212415e+00 ;
+    ex:coverageOnToBe 5.574256e+01 ;
+    ex:overlapArea 7.919066e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cab6d> .
+
+inst:interface_a3b88465d49e44debac480e2e05bd67d a bot:Interface ;
+    ex:coverageOnAsIs 1.013959e+01 ;
+    ex:coverageOnToBe 9.969309e+01 ;
+    ex:overlapArea 2.120472e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-78126453813c> .
+
+inst:interface_a5b81326446244ce8f2ee01937257d3e a bot:Interface ;
+    ex:coverageOnAsIs 7.249475e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.7871e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca81b> .
+
+inst:interface_a67a931c32bd44e8b93c91cbc8c3b015 a bot:Interface ;
+    ex:coverageOnAsIs 1.25963e+01 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 2.4975e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac84c6>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-7812645382c2> .
+
+inst:interface_a6c9fdbfd5c74e02a6e33a6c65cb1760 a bot:Interface ;
+    ex:coverageOnAsIs 1.200474e+01 ;
+    ex:coverageOnToBe 9.556953e+01 ;
+    ex:overlapArea 2.386849e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacf97e>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343c87c> .
+
+inst:interface_a8169a74de264f6ab757319b4731d016 a bot:Interface ;
+    ex:coverageOnAsIs 1.139644e+01 ;
+    ex:coverageOnToBe 9.511111e+01 ;
+    ex:overlapArea 2.3754e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cb3f> .
+
+inst:interface_aaaaed06570d456fae9fd5b6fc4e10a1 a bot:Interface ;
+    ex:coverageOnAsIs 2.985875e+00 ;
+    ex:coverageOnToBe 3.814273e+01 ;
+    ex:overlapArea 5.989743e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cfe12> .
+
+inst:interface_ac0d2b338806420da5bbb6faf5173cb9 a bot:Interface ;
+    ex:coverageOnAsIs 1.139644e+01 ;
+    ex:coverageOnToBe 9.511111e+01 ;
+    ex:overlapArea 2.3754e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cb2c> .
+
+inst:interface_ac30db21bb114296ab85682d5287392c a bot:Interface ;
+    ex:coverageOnAsIs 1.09682e+01 ;
+    ex:coverageOnToBe 5.813839e+01 ;
+    ex:overlapArea 8.371929e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e7d> .
+
+inst:interface_ac7b461defcd4b0bb15b19af5645e7a7 a bot:Interface ;
+    ex:coverageOnAsIs 3.617499e+00 ;
+    ex:coverageOnToBe 3.327116e+01 ;
+    ex:overlapArea 4.873518e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad14f> .
+
+inst:interface_ac998acfd0f74493bdc8d5f46964e7dc a bot:Interface ;
+    ex:coverageOnAsIs 8.604651e+01 ;
+    ex:coverageOnToBe 3.391192e+01 ;
+    ex:overlapArea 1.023869e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_7b8660c5-62f5-4750-94e5-52c0612a4fe0>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88e6> .
+
+inst:interface_ad54cccf7ef14b7d8a7b01b715cad49e a bot:Interface ;
+    ex:coverageOnAsIs 1.217818e+01 ;
+    ex:coverageOnToBe 9.668064e+01 ;
+    ex:overlapArea 2.414599e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac84c6>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-781264538245> .
+
+inst:interface_b28080de96954d749d4b3dc4deecbe5e a bot:Interface ;
+    ex:coverageOnAsIs 5.538462e+01 ;
+    ex:coverageOnToBe 7.91095e+00 ;
+    ex:overlapArea 2.388474e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb89>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88a6> .
+
+inst:interface_b8233f3f7d194a07bb48aa9e385bb190 a bot:Interface ;
+    ex:coverageOnAsIs 4.120379e+00 ;
+    ex:coverageOnToBe 9.462306e-01 ;
+    ex:overlapArea 2.856859e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88a6> .
+
+inst:interface_b83f8abda7c74b748943ff0eeb6b8a50 a bot:Interface ;
+    ex:coverageOnAsIs 6.022052e+00 ;
+    ex:coverageOnToBe 8.322138e+01 ;
+    ex:overlapArea 7.271514e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c3a8e> .
+
+inst:interface_b9fbc3d1e79f49c9a29fc186728d7fd2 a bot:Interface ;
+    ex:coverageOnAsIs 9.551555e+00 ;
+    ex:coverageOnToBe 7.225752e+01 ;
+    ex:overlapArea 6.941014e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad111> .
+
+inst:interface_baed91547d0c4b4ba8a8879a21656fa0 a bot:Interface ;
+    ex:coverageOnAsIs 8.477252e+00 ;
+    ex:coverageOnToBe 6.446425e+01 ;
+    ex:overlapArea 6.470612e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2ca8> .
+
+inst:interface_bb40a145ff754722bdb0b7e125b7fa60 a bot:Interface ;
+    ex:coverageOnAsIs 3.770337e+00 ;
+    ex:coverageOnToBe 9.122464e+01 ;
+    ex:overlapArea 9.294423e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9300> .
+
+inst:interface_be3f5b390a6b419bb9cd952f367173f5 a bot:Interface ;
+    ex:coverageOnAsIs 3.484872e+00 ;
+    ex:coverageOnToBe 5.005318e+01 ;
+    ex:overlapArea 8.659106e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cfd7d> .
+
+inst:interface_c0ba63e733114679982f3ad8b791a4c4 a bot:Interface ;
+    ex:coverageOnAsIs 1.661747e+01 ;
+    ex:coverageOnToBe 8.268949e+01 ;
+    ex:overlapArea 5.250927e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c243f> .
+
+inst:interface_c118504ea62f4d898a3c6b5d0c64c872 a bot:Interface ;
+    ex:coverageOnAsIs 8.147846e+00 ;
+    ex:coverageOnToBe 6.486487e+01 ;
+    ex:overlapArea 1.62e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacf97e>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cacc> .
+
+inst:interface_c151a78536994e398fab5b25bd6ec0c4 a bot:Interface ;
+    ex:coverageOnAsIs 3.577958e+00 ;
+    ex:coverageOnToBe 5.063521e+01 ;
+    ex:overlapArea 6.185598e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca050> .
+
+inst:interface_c1720c80489a4d5ab7b2d0cef1355cfe a bot:Interface ;
+    ex:coverageOnAsIs 1.632554e+01 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.07e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c3a88> .
+
+inst:interface_c34db13a4c6644e4b8c5df702dc5afa5 a bot:Interface ;
+    ex:coverageOnAsIs 5.421354e+00 ;
+    ex:coverageOnToBe 9.815466e+01 ;
+    ex:overlapArea 1.133757e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-7812645385df> .
+
+inst:interface_c370a6e358274c4fb2e8a6e4cfd89e9c a bot:Interface ;
+    ex:coverageOnAsIs 1e+02 ;
+    ex:coverageOnToBe 1.170226e+01 ;
+    ex:overlapArea 9.59e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1ba1b0>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2cab> .
+
+inst:interface_c5dc0950e15840ef9a87943c9f821f06 a bot:Interface ;
+    ex:coverageOnAsIs 4.84908e+00 ;
+    ex:coverageOnToBe 7.383144e+01 ;
+    ex:overlapArea 5.855173e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c242e> .
+
+inst:interface_c869b231d5e74f848b8e794c52e0e9fa a bot:Interface ;
+    ex:coverageOnAsIs 1.087667e+01 ;
+    ex:coverageOnToBe 5.395976e+01 ;
+    ex:overlapArea 7.903958e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad14f> .
+
+inst:interface_c8dc0b05c4464d87bc0bce76bedf6c15 a bot:Interface ;
+    ex:coverageOnAsIs 4.204545e+01 ;
+    ex:coverageOnToBe 9.286338e+01 ;
+    ex:overlapArea 2.257416e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfe8e>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bf762> .
+
+inst:interface_c8f3b12b4533491ab6caa6ab73ad7c83 a bot:Interface ;
+    ex:coverageOnAsIs 5.119266e+00 ;
+    ex:coverageOnToBe 3.764515e+01 ;
+    ex:overlapArea 3.720117e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad138> .
+
+inst:interface_c90b2ac1daf846438f369be11a18462b a bot:Interface ;
+    ex:coverageOnAsIs 3.730245e+00 ;
+    ex:coverageOnToBe 5.92177e+01 ;
+    ex:overlapArea 9.268799e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf15a> .
+
+inst:interface_ca448b18548445aaa0d1f75d6637c82b a bot:Interface ;
+    ex:coverageOnAsIs 3.282163e+00 ;
+    ex:coverageOnToBe 5.145376e+01 ;
+    ex:overlapArea 8.15542e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf3f2> .
+
+inst:interface_cb7d1e91c8e94ea19f600f6c376ed95c a bot:Interface ;
+    ex:coverageOnAsIs 1.317616e+01 ;
+    ex:coverageOnToBe 1.9e+01 ;
+    ex:overlapArea 8.379e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9b>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf550> .
+
+inst:interface_cbe3281da87b4d099f69eaf396d41c64 a bot:Interface ;
+    ex:coverageOnAsIs 3.250843e+00 ;
+    ex:coverageOnToBe 5.262109e+01 ;
+    ex:overlapArea 8.013795e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cab6c> .
+
+inst:interface_cfb44ba97f4140d79f1d333174cda69a a bot:Interface ;
+    ex:coverageOnAsIs 8.49065e-01 ;
+    ex:coverageOnToBe 6.987716e+00 ;
+    ex:overlapArea 2.109731e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88a6> .
+
+inst:interface_d053a23b00da46dc8bf26ecdb85c5c03 a bot:Interface ;
+    ex:coverageOnAsIs 1.256126e+01 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 2.4975e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacf97e>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343c800> .
+
+inst:interface_d3b63157e2c34f3e87ba52b1d823eeba a bot:Interface ;
+    ex:coverageOnAsIs 3.870481e+00 ;
+    ex:coverageOnToBe 3.522892e+01 ;
+    ex:overlapArea 5.214337e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad11f> .
+
+inst:interface_d3fe246f74f24c9aa97e2bc08b4653b7 a bot:Interface ;
+    ex:coverageOnAsIs 1.425543e+01 ;
+    ex:coverageOnToBe 6.304851e+00 ;
+    ex:overlapArea 1.903561e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa96c>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88a6> .
+
+inst:interface_d4882e369f7c4a1891fb2c4f35c3a61c a bot:Interface ;
+    ex:coverageOnAsIs 1.051153e+01 ;
+    ex:coverageOnToBe 9.70876e+01 ;
+    ex:overlapArea 1.41612e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_32685768-14f2-47f8-b358-6c6168b7a1ae> .
+
+inst:interface_d4ea47f53e674f88b1099e4469cff946 a bot:Interface ;
+    ex:coverageOnAsIs 8.620387e+00 ;
+    ex:coverageOnToBe 8.029122e+01 ;
+    ex:overlapArea 6.579866e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2cab> .
+
+inst:interface_d60b5618892640f7b3c7f3c14debf574 a bot:Interface ;
+    ex:coverageOnAsIs 1.145137e+01 ;
+    ex:coverageOnToBe 9.556953e+01 ;
+    ex:overlapArea 2.386849e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cb3d> .
+
+inst:interface_d766c47c4d934dcebab99ec3ca52aff6 a bot:Interface ;
+    ex:coverageOnAsIs 3.321059e+00 ;
+    ex:coverageOnToBe 4.699331e+01 ;
+    ex:overlapArea 8.186888e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cab6b> .
+
+inst:interface_d7eb92bb6f13457f8c37140848d04b81 a bot:Interface ;
+    ex:coverageOnAsIs 2.336935e+01 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.46631e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad5c8> .
+
+inst:interface_d925a2adf7864afa807107df70ac0db1 a bot:Interface ;
+    ex:coverageOnAsIs 1.426259e+01 ;
+    ex:coverageOnToBe 7.925095e+00 ;
+    ex:overlapArea 9.069879e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9b>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf551> .
+
+inst:interface_dbc9502de65a40fd9f913255b4023eb1 a bot:Interface ;
+    ex:coverageOnAsIs 6.725304e+00 ;
+    ex:coverageOnToBe 8.027495e+01 ;
+    ex:overlapArea 9.060373e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad127> .
+
+inst:interface_dc20b24160604fb48a82ed1b6087d2b5 a bot:Interface ;
+    ex:coverageOnAsIs 3.171886e+00 ;
+    ex:coverageOnToBe 5.051246e+01 ;
+    ex:overlapArea 4.273185e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad5c9> .
+
+inst:interface_dd7e7abcf550440b882d783b12abf80b a bot:Interface ;
+    ex:coverageOnAsIs 1.145137e+01 ;
+    ex:coverageOnToBe 9.556953e+01 ;
+    ex:overlapArea 2.386849e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cb22> .
+
+inst:interface_dec11fd7bd764f2d8f377002db9848f1 a bot:Interface ;
+    ex:coverageOnAsIs 3.841986e+00 ;
+    ex:coverageOnToBe 6.075208e+01 ;
+    ex:overlapArea 9.546451e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf0e6> .
+
+inst:interface_e017c52e25e346658c04bd7fb8d74a50 a bot:Interface ;
+    ex:coverageOnAsIs 4.83842e+00 ;
+    ex:coverageOnToBe 6.00877e+01 ;
+    ex:overlapArea 5.581303e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bf333> .
+
+inst:interface_e030ae679da04709b64a3643256c97a5 a bot:Interface ;
+    ex:coverageOnAsIs 6.791626e+00 ;
+    ex:coverageOnToBe 9.864121e+01 ;
+    ex:overlapArea 1.415602e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa298>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343cb3e> .
+
+inst:interface_e12cc742fda2489282bbffec4e35e224 a bot:Interface ;
+    ex:coverageOnAsIs 4.448898e+01 ;
+    ex:coverageOnToBe 7.963689e+01 ;
+    ex:overlapArea 3.184942e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfe5e>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bf710> .
+
+inst:interface_e17c47a42ef14de2b8b01a0330b2312d a bot:Interface ;
+    ex:coverageOnAsIs 3.121304e+00 ;
+    ex:coverageOnToBe 3.619356e+01 ;
+    ex:overlapArea 6.261417e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cfd7d> .
+
+inst:interface_e3c817c4face434a87500a050cab305c a bot:Interface ;
+    ex:coverageOnAsIs 7.192215e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.7871e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9aca> .
+
+inst:interface_e3ffa143a17d4b60bf51edfa15fc1969 a bot:Interface ;
+    ex:coverageOnAsIs 1.965544e+00 ;
+    ex:coverageOnToBe 7.752261e+01 ;
+    ex:overlapArea 4.883925e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf06e> .
+
+inst:interface_e53010bf2707429ba7b88317c4fa2483 a bot:Interface ;
+    ex:coverageOnAsIs 3.476465e+00 ;
+    ex:coverageOnToBe 4.230554e+01 ;
+    ex:overlapArea 6.010136e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cab6e> .
+
+inst:interface_e55ad8554fb7429ab3483adbec89b317 a bot:Interface ;
+    ex:coverageOnAsIs 9.111851e+00 ;
+    ex:coverageOnToBe 9.999551e+01 ;
+    ex:overlapArea 1.905542e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29f>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-7812645384e6> .
+
+inst:interface_e76b34f7b54b4c5db2c4657aa6fc7e11 a bot:Interface ;
+    ex:coverageOnAsIs 6.979308e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.7205e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca99a> .
+
+inst:interface_e781b7c21f7243e6ba989db7dbc196f4 a bot:Interface ;
+    ex:coverageOnAsIs 1.207601e+01 ;
+    ex:coverageOnToBe 5.697158e+00 ;
+    ex:overlapArea 7.679387e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9b>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf554> .
+
+inst:interface_e81814050b9b453e8ccf31f8b64c4aa6 a bot:Interface ;
+    ex:coverageOnAsIs 1.217818e+01 ;
+    ex:coverageOnToBe 9.668064e+01 ;
+    ex:overlapArea 2.414599e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac84c6>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-7812645382c5> .
+
+inst:interface_e8b9871c2dbe4698b9fbb868f625d01e a bot:Interface ;
+    ex:coverageOnAsIs 3.869445e+01 ;
+    ex:coverageOnToBe 4.32095e+01 ;
+    ex:overlapArea 5.16696e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa96c>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8b3d> .
+
+inst:interface_e9258b4f29dd4d7a8aa19e57b64f3e7a a bot:Interface ;
+    ex:coverageOnAsIs 3.092967e+00 ;
+    ex:coverageOnToBe 3.407668e+01 ;
+    ex:overlapArea 5.347142e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9ce3> .
+
+inst:interface_eabdcbc58c244c46b86291be98105a73 a bot:Interface ;
+    ex:coverageOnAsIs 1.414975e+01 ;
+    ex:coverageOnToBe 7.916369e+00 ;
+    ex:overlapArea 8.998121e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9b>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf552> .
+
+inst:interface_ead22adf25ca4cdc8c73349c5ee66ecd a bot:Interface ;
+    ex:coverageOnAsIs 1.198048e+01 ;
+    ex:coverageOnToBe 9.511111e+01 ;
+    ex:overlapArea 2.3754e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac84c6>,
+        <https://example.org/spheere/to-be#covering_6c30dc20-1d72-49cb-b432-78126453839b> .
+
+inst:interface_eb276dc39276413db318adad4584f602 a bot:Interface ;
+    ex:coverageOnAsIs 2.245137e+00 ;
+    ex:coverageOnToBe 9.9e+01 ;
+    ex:overlapArea 5.57865e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf550> .
+
+inst:interface_eb312201f8b842138b996a15c1e59f11 a bot:Interface ;
+    ex:coverageOnAsIs 1.095508e+01 ;
+    ex:coverageOnToBe 5.612022e+01 ;
+    ex:overlapArea 8.361913e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfd2e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2e7c> .
+
+inst:interface_eb61ba0e68374dd1a24f9e8f85e5fdb6 a bot:Interface ;
+    ex:coverageOnAsIs 4.50986e+00 ;
+    ex:coverageOnToBe 3.934496e+01 ;
+    ex:overlapArea 6.075713e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_32685768-14f2-47f8-b358-6c6168b7a118> .
+
+inst:interface_ec46b0506e9a43a0b80b5af15259436e a bot:Interface ;
+    ex:coverageOnAsIs 4.895026e+00 ;
+    ex:coverageOnToBe 7.548501e+01 ;
+    ex:overlapArea 9.819551e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8479> .
+
+inst:interface_ec7529b983a144b783f60f6fcda990f6 a bot:Interface ;
+    ex:coverageOnAsIs 1.501995e+01 ;
+    ex:coverageOnToBe 8.608833e+00 ;
+    ex:overlapArea 9.5515e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9b>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf55f> .
+
+inst:interface_eda799046012488cbb4d299536f82d42 a bot:Interface ;
+    ex:coverageOnAsIs 7.183219e-01 ;
+    ex:coverageOnToBe 5.86502e+00 ;
+    ex:overlapArea 1.770767e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88a6> .
+
+inst:interface_f0f8b836d4de4510b6c92168a93b1cfe a bot:Interface ;
+    ex:coverageOnAsIs 8.99635e+00 ;
+    ex:coverageOnToBe 8.597458e+01 ;
+    ex:overlapArea 1.086292e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa285>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c21f2> .
+
+inst:interface_f21e4c5144e8481cb3d6d005ccd563b4 a bot:Interface ;
+    ex:coverageOnAsIs 7.192215e+00 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.7871e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9b18> .
+
+inst:interface_f311809619e348a4b9b7b5c945433a16 a bot:Interface ;
+    ex:coverageOnAsIs 6.772245e+01 ;
+    ex:coverageOnToBe 2.123948e+01 ;
+    ex:overlapArea 2.035563e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfe5e>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198bf91c> .
+
+inst:interface_f37129f297c44053911860e9ec9a9ae8 a bot:Interface ;
+    ex:coverageOnAsIs 1.270072e+01 ;
+    ex:coverageOnToBe 7.5e+01 ;
+    ex:overlapArea 8.325e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad14c> .
+
+inst:interface_f443136320044d1ba7128dc84838f1b1 a bot:Interface ;
+    ex:coverageOnAsIs 5.25157e+00 ;
+    ex:coverageOnToBe 8.974464e+01 ;
+    ex:overlapArea 1.053479e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c847a> .
+
+inst:interface_f569a968997140909e239ab92505c91c a bot:Interface ;
+    ex:coverageOnAsIs 6.584526e+00 ;
+    ex:coverageOnToBe 9.096867e+01 ;
+    ex:overlapArea 1.138337e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca2ea> .
+
+inst:interface_f598747b712144adbfff25293d3da329 a bot:Interface ;
+    ex:coverageOnAsIs 1.189254e+01 ;
+    ex:coverageOnToBe 7.178138e+01 ;
+    ex:overlapArea 1.37185e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa286>,
+        <https://example.org/spheere/to-be#covering_9bbbba9e-9006-44f3-9801-956c198befe5> .
+
+inst:interface_f5a2a24625984f019567fb4242e05dd1 a bot:Interface ;
+    ex:coverageOnAsIs 4.461538e+01 ;
+    ex:coverageOnToBe 5.860306e+00 ;
+    ex:overlapArea 1.769344e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fae7d>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf6f6> .
+
+inst:interface_f67b3f36c6cc470b9c53e5dfd975c66f a bot:Interface ;
+    ex:coverageOnAsIs 8.975547e-01 ;
+    ex:coverageOnToBe 7.386781e+00 ;
+    ex:overlapArea 2.230217e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfb52>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf6f6> .
+
+inst:interface_f8bbd6038bd44e21bb46166b16093e5d a bot:Interface ;
+    ex:coverageOnAsIs 4.935238e+00 ;
+    ex:coverageOnToBe 7.178426e+01 ;
+    ex:overlapArea 9.900216e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c8189> .
+
+inst:interface_f9a97b70a0d74e668f71f2a7ba1a4311 a bot:Interface ;
+    ex:coverageOnAsIs 6.288069e-01 ;
+    ex:coverageOnToBe 5.13414e+00 ;
+    ex:overlapArea 1.5501e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7cf6f6> .
+
+inst:interface_f9cbe9a9d2d643fbaf186dbfb0873841 a bot:Interface ;
+    ex:coverageOnAsIs 6.92394e+00 ;
+    ex:coverageOnToBe 8.72164e+01 ;
+    ex:overlapArea 9.327977e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa299>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ad14d> .
+
+inst:interface_fa2de10de98940a689bb8d4c03bd50d6 a bot:Interface ;
+    ex:coverageOnAsIs 6.857324e+00 ;
+    ex:coverageOnToBe 9.88323e+01 ;
+    ex:overlapArea 1.375597e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c818e> .
+
+inst:interface_faba7ed2672f4816a8af24303d3c8907 a bot:Interface ;
+    ex:coverageOnAsIs 4.177684e+00 ;
+    ex:coverageOnToBe 9.151456e+01 ;
+    ex:overlapArea 1.029859e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9ce2> .
+
+inst:interface_fac1d55d856a46ddaaef86bf5b4e327d a bot:Interface ;
+    ex:coverageOnAsIs 7.491698e+00 ;
+    ex:coverageOnToBe 9.347157e+01 ;
+    ex:overlapArea 1.846811e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac8469>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca821> .
+
+inst:interface_fb1a50f5b8274b4a82271b706d885a6a a bot:Interface ;
+    ex:coverageOnAsIs 6.505206e+00 ;
+    ex:coverageOnToBe 9.882254e+01 ;
+    ex:overlapArea 1.304961e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c847b> .
+
+inst:interface_fb1aa7bb7c004fc7b71f7a71e66803e1 a bot:Interface ;
+    ex:coverageOnAsIs 1.425587e+01 ;
+    ex:coverageOnToBe 4.283572e+00 ;
+    ex:overlapArea 1.293296e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa962>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88a6> .
+
+inst:interface_fb29bf3d27eb42f5b707a57377b99659 a bot:Interface ;
+    ex:coverageOnAsIs 3.503077e+00 ;
+    ex:coverageOnToBe 5.261636e+01 ;
+    ex:overlapArea 6.056143e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7ca05f> .
+
+inst:interface_fc1f04b1761f43488e8dd904c84a21ae a bot:Interface ;
+    ex:coverageOnAsIs 3.822314e+01 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 1.11e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacfe8e>,
+        <https://example.org/spheere/to-be#covering_2b1afcaa-d338-4296-aa47-9d80d37c2cb4> .
+
+inst:interface_fe20390993c244069040ed34d7b4582c a bot:Interface ;
+    ex:coverageOnAsIs 1.059804e+01 ;
+    ex:coverageOnToBe 7.716316e+01 ;
+    ex:overlapArea 7.701486e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cac861b>,
+        <https://example.org/spheere/to-be#covering_65cc2203-2598-4cd5-91e4-b5b6ab4ace71> .
+
+inst:interface_fe81926848ec406b892225b25bfeb020 a bot:Interface ;
+    ex:coverageOnAsIs 1.389394e+01 ;
+    ex:coverageOnToBe 8.120811e+00 ;
+    ex:overlapArea 9.138755e-02 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_92784fec-ab6b-4327-9f88-1cde8c1b6e9a>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c9ce2> .
+
+inst:interface_fefeb1e5b1b8497698d5aedccec477f1 a bot:Interface ;
+    ex:coverageOnAsIs 1.256126e+01 ;
+    ex:coverageOnToBe 1e+02 ;
+    ex:overlapArea 2.4975e+00 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_59cb93ee-2221-4804-b9f1-df683cacf97e>,
+        <https://example.org/spheere/to-be#covering_f1af93d5-ed24-45b0-a433-72920343ca97> .
+
+inst:interface_ffb075628547488ca0a86a91b1e650ca a bot:Interface ;
+    ex:coverageOnAsIs 5.957786e-01 ;
+    ex:coverageOnToBe 3.411454e+00 ;
+    ex:overlapArea 1.029986e-01 ;
+    bot:interfaceOf <https://example.org/spheere/as-is#wall_9ef387e4-b5e5-42d5-836a-90ed8d7fa29e>,
+        <https://example.org/spheere/to-be#covering_f67121c4-8b16-4101-9670-da3b6c7c88a6> .
+
