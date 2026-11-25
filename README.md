@@ -8,7 +8,6 @@
 **Project context:** Horizon Europe SPHEERE, Grant Agreement No. 101235544.  
 **Correspondence:** jacopo.cassandro@polimi.it
 
-> **Repository status:** The current starter archive contains the manuscript's LaTeX source and figures, three SPARQL query examples extracted from the manuscript, and manuscript-reported summary results. Original case-study IFC models, RDF graphs, the complete insulation catalogue, and the software implementation are **not included in this starter archive**. Do not treat the summary CSV files as raw experimental data or the example queries as an independently tested reproduction package.
 
 ## Overview
 
